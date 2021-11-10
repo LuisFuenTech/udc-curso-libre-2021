@@ -1,5 +1,65 @@
-.custom-img {
-  width: "250px" !important;
-  height: "250px" !important;
+.carousel-inner img {
+  margin: auto !important;
 }
 
+.custom-img {
+  width: "150px" !important;
+  height: "150px" !important;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  color: #000;
+  text-decoration: none;
+}
+
+.c-nav {
+  background-color: #f2796e !important;
+  background: #f2796e !important;
+  border-bottom: 0 solid #f2796e !important;
+}
+
+.c-footer {
+  background-color: #f2796e !important;
+  background: #f2796e !important;
+  border-bottom: 0 solid #f2796e !important;
+}
+
+.c-text {
+  color: #fff !important;
+}
+
+.c-card {
+  border: 2px solid #f2796e !important;
+}
+
+.c-jumbo {
+  background-color: #fad5d2 !important;
+  background: #fad5d2 !important;
+}
+
+.c-button {
+  background-color: #f2796e !important;
+  background: #f2796e !important;
+  color: #fff !important;
+}
+
+.c-input {
+  border: 2px solid #f2796e !important;
+}
+
+div div div a:hover {
+  color: #f2796e !important;
+}
+
+h1 {
+  color: #f2796e !important;
+}
+
+.alert-success {
+  background-color: #fad5d2 !important;
+  background: #fad5d2 !important;
+  color: #f2796e !important;
+}
